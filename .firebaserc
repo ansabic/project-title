@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "apartmanitest-21ee1"
+  },
+  "targets": {
+    "apartmanitest-21ee1": {
+      "hosting": {
+        "apartmani1": [
+          "apartmani1",
+          "resources"
+        ],
+        "apartmani2": [
+          "apartmani2"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
